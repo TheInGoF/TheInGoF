@@ -9,26 +9,6 @@ Day-job is elsewhere. This is the side where I get to be the architect.
 
 ---
 
-### Currently public
-
-#### 📚 [PageMentor](https://github.com/TheInGoF/PageMentor)
-Self-hosted study companion. Drop in a lecture PDF, get back an M4B
-audiobook, AI flashcards and a timed exam trainer — fully local
-Ollama + Qwen3-TTS, no cloud. Built for the open-uni-and-a-long-commute
-combo.
-
-#### 🚗 [IDMate](https://github.com/TheInGoF/IDMate)
-Self-hosted EV telemetry & trip log for non-Tesla EVs. Same spirit as
-TeslaMate, but the data comes from CAN/OBD2 over MQTT-AES instead of
-a vendor API. Trips, journeys, charge tracker (with Tibber-vs-flat
-comparison), battery health analysis.
-
-#### 🔌 [IDTelemetry](https://github.com/TheInGoF/IDTelemetry)
-Companion firmware for IDMate. ESP32-S3 stick that lives in the OBD2
-port, does CAN + LTE-M MQTT + BLE ELM327 + deep-sleep wake patterns.
-
----
-
 ### Stack-of-the-day
 
 Python · Bun · Hono · React · TypeScript · SQLite · InfluxDB ·
