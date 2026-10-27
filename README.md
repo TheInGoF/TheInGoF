@@ -2,9 +2,7 @@
 
 Hobby projects — sketches with rough edges and ambitious scope. Mostly
 self-hosted things that scratch my own itches: ideas, architecture and
-deploy decisions are mine; an LLM does most of the typing. I commit
-what works, throw out what doesn't, ship when it runs end-to-end.
-
+deploy decisions are mine; an LLM does most of the typing.
 Day-job is elsewhere. This is the side where I get to be the architect.
 
 ---
